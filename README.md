@@ -29,7 +29,7 @@ Follow these steps to get the project up and running on your local machine.
    
         
     
-        git clone <your-repo-url>
+        git clone https://github.com/randyungaro/gemini-chatbot-api
         cd gemini-chatbot-api # or whatever your project folder is named
    
 2. Install dependencies
