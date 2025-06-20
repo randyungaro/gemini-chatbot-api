@@ -32,7 +32,7 @@ Follow these steps to get the project up and running on your local machine.
         git clone <your-repo-url>
         cd gemini-chatbot-api # or whatever your project folder is named
    
-3. Install dependencies
+2. Install dependencies
 Navigate to the project root directory in your terminal and install the necessary Node.js packages:
 
     
@@ -65,7 +65,7 @@ or, if you have start script defined in package.json:
         npm start
 You should see a message in your console indicating that the server is running, for example: Gemini Chatbot running on http://localhost:3000.
 
-6. Access the Chatbot
+5. Access the Chatbot
 Open your web browser and navigate to:
 
         http://localhost:3000
