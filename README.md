@@ -1,3 +1,5 @@
+![Shigeru Mizuki](https://github.com/user-attachments/assets/cccfd212-fa80-4269-bc90-2ef3d32c5648)
+
 # Gemini AI Chatbot
 A simple and interactive web-based chatbot powered by Google's Gemini AI model. 
 This project demonstrates how to build a basic full-stack application using Node.js (Express), 
